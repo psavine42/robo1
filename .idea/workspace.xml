@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5c198f6-5ae4-4e0a-bada-38b6a914c179" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1723792890">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="4212" />
+          <entry key="py" value="7619" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="11831" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.28502995">
+      <split-first>
+        <splitter split-orientation="vertical" split-proportion="0.9">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+              <file pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/test1.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="418">
+                      <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$USER_HOME$/RoboDK/Python/robodk.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="4850">
+                      <caret line="720" selection-start-line="720" selection-end-line="720" />
+                      <folding>
+                        <element signature="e#2482#2665#0" />
+                        <element signature="e#7055#7704#0" />
+                        <element signature="e#7764#8384#1" expanded="true" />
+                        <element signature="e#9648#10044#0" />
+                        <element signature="e#13487#14304#0" />
+                        <element signature="e#14338#15034#0" />
+                        <element signature="e#15878#17034#0" />
+                        <element signature="e#17065#18335#0" />
+                        <element signature="e#18365#18638#0" />
+                        <element signature="e#20423#21048#0" />
+                        <element signature="e#21080#21620#0" />
+                        <element signature="e#21653#22174#0" />
+                        <element signature="e#22202#22830#0" />
+                        <element signature="e#24432#24995#0" />
+                        <element signature="e#25030#25734#0" />
+                        <element signature="e#28299#28881#0" />
+                        <element signature="e#28928#29543#0" />
+                        <element signature="e#29582#30166#0" />
+                        <element signature="e#30205#30741#0" />
+                        <element signature="e#31545#31657#1" expanded="true" />
+                        <element signature="e#38782#39302#0" />
+                        <element signature="e#38782#39272#1" expanded="true" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$USER_HOME$/RoboDK/Python/robolink.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="86">
+                      <caret line="1235" column="32" selection-start-line="1235" selection-start-column="32" selection-end-line="1235" selection-end-column="32" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <splitter split-orientation="horizontal" split-proportion="0.5">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/movers.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="946">
+                      <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+                      <folding>
+                        <element signature="e#5839#5967#1" expanded="true" />
+                        <element signature="e#7183#7819#0" />
+                        <element signature="e#7849#8035#0" />
+                        <marker date="1549327819628" expanded="true" signature="1942:2336" ph="..." />
+                        <marker date="1549327819628" expanded="true" signature="2500:2618" ph="..." />
+                        <marker date="1549327819628" expanded="true" signature="3899:3910" ph="..." />
+                        <marker date="1549327819628" expanded="true" signature="4121:4348" ph="..." />
+                        <marker date="1549327819628" expanded="true" signature="4530:4535" ph="..." />
+                        <marker date="1549327819628" expanded="true" signature="4792:6261" ph="..." />
+                        <marker date="1549327819628" expanded="true" signature="5145:5469" ph="..." />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$USER_HOME$/anaconda3/envs/pt1/lib/python3.7/site-packages/trimesh/base.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="644">
+                      <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Target</find>
+      <find>meshpy</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Weld_program.py" />
+        <option value="$PROJECT_DIR$/test1.py" />
+        <option value="$PROJECT_DIR$/helper.py" />
+        <option value="$PROJECT_DIR$/Pick_and_Place.py" />
+        <option value="$USER_HOME$/RoboDK/Python/robolink.py" />
+        <option value="$USER_HOME$/RoboDK/Python/robodk.py" />
+        <option value="$PROJECT_DIR$/movers.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="4258" />
+    <option name="y" value="24" />
+    <option name="width" value="3404" />
+    <option name="height" value="2136" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="robo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/RoboDK/Python" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5c198f6-5ae4-4e0a-bada-38b6a914c179" name="Default Changelist" comment="" />
+      <created>1548893694317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548893694317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4258" y="24" width="3404" height="2136" extended-state="4" />
+    <editor active="true" />
+    <layout>
+      <window_info auto_hide="true" content_ui="combo" x="115" y="38" width="340" height="263" id="Project" order="0" type="FLOATING" weight="0.17334576" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" x="95" y="768" width="1093" height="1365" id="Python Console" order="11" type="FLOATING" visible="true" weight="0.32976007" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Weld_program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="13" column="29" selection-start-line="13" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pt1/lib/python3.7/site-packages/shapely/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pt1/lib/python3.7/site-packages/trimesh/creation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657">
+          <caret line="358" column="28" selection-start-line="358" selection-start-column="28" selection-end-line="358" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SyncR1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pt1/lib/python3.7/site-packages/numpy/linalg/linalg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="1417" column="4" selection-start-line="1417" selection-start-column="4" selection-end-line="1417" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pt1/lib/python3.7/site-packages/trimesh/primitives.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="550" column="8" lean-forward="true" selection-start-line="550" selection-start-column="8" selection-end-line="550" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#216#1" expanded="true" />
+            <element signature="e#13238#13459#1" expanded="true" />
+            <element signature="e#16575#16876#1" expanded="true" />
+            <element signature="e#17405#17627#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RoboDK/Python/robolink.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="1235" column="32" selection-start-line="1235" selection-start-column="32" selection-end-line="1235" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pick_and_Place.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="161" selection-start-line="161" selection-end-line="161" selection-end-column="26" />
+          <folding>
+            <element signature="e#418#892#0" />
+            <element signature="e#2029#2317#0" />
+            <element signature="e#2354#2525#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RoboDK/Python/robodk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4850">
+          <caret line="720" selection-start-line="720" selection-end-line="720" />
+          <folding>
+            <element signature="e#2482#2665#0" />
+            <element signature="e#7055#7704#0" />
+            <element signature="e#7764#8384#1" expanded="true" />
+            <element signature="e#9648#10044#0" />
+            <element signature="e#13487#14304#0" />
+            <element signature="e#14338#15034#0" />
+            <element signature="e#15878#17034#0" />
+            <element signature="e#17065#18335#0" />
+            <element signature="e#18365#18638#0" />
+            <element signature="e#20423#21048#0" />
+            <element signature="e#21080#21620#0" />
+            <element signature="e#21653#22174#0" />
+            <element signature="e#22202#22830#0" />
+            <element signature="e#24432#24995#0" />
+            <element signature="e#25030#25734#0" />
+            <element signature="e#28299#28881#0" />
+            <element signature="e#28928#29543#0" />
+            <element signature="e#29582#30166#0" />
+            <element signature="e#30205#30741#0" />
+            <element signature="e#31545#31657#1" expanded="true" />
+            <element signature="e#38782#39302#0" />
+            <element signature="e#38782#39272#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pt1/lib/python3.7/site-packages/trimesh/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#381#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/pt1/lib/python3.7/site-packages/trimesh/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="47" column="6" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="101" lean-forward="true" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="e#5839#5967#1" expanded="true" />
+            <element signature="e#7183#7819#0" />
+            <element signature="e#7849#8035#0" />
+            <marker date="1549327819628" expanded="true" signature="1942:2336" ph="..." />
+            <marker date="1549327819628" expanded="true" signature="2500:2618" ph="..." />
+            <marker date="1549327819628" expanded="true" signature="3899:3910" ph="..." />
+            <marker date="1549327819628" expanded="true" signature="4121:4348" ph="..." />
+            <marker date="1549327819628" expanded="true" signature="4530:4535" ph="..." />
+            <marker date="1549327819628" expanded="true" signature="4792:6261" ph="..." />
+            <marker date="1549327819628" expanded="true" signature="5145:5469" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
